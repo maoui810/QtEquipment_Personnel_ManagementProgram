@@ -11,6 +11,6 @@
 ## (A)
 ![sample impage](images/1.PNG)
 ## (B)
-![sample impage](images/2.PNG)
+![sample impage](images/2.png)
 ## (C)
 ![sample impage](images/1.PNG)
